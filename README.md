@@ -1,1 +1,3 @@
-# pgo-tutorials-1
+Jan Przedpełski
+11
+s32026
